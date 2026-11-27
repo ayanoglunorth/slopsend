@@ -1,0 +1,11 @@
+node_modules/
+
+# local assistant files
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+.claude/
+.cursor/
+.codex/
+.impeccable/
+.taste-skill/
